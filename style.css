@@ -1,0 +1,122 @@
+.bannar{
+    padding:70px 50px 30px 150px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(233, 221, 222) ;
+}
+.profile-pic{
+    height: 400px;
+}
+
+.bannar-title{
+    font-size:45px ;
+    font-weight: 700;
+    margin-top: 5px;
+   
+}
+.bannar-description{
+    color:#757575
+
+}
+.bannar-containt{
+    max-width: 500;}
+.buton{
+        background-color: crimson;
+        padding: 10px;
+        margin: 14px;
+        border-radius: 10px;
+
+    }
+    .heading{
+        text-align: center;
+        background-color:rgb(233, 221, 222) ;
+        display:flex;
+        gap: 100px;
+        padding: 35px;
+        margin-top: 50px 50px 0 50px;
+    }
+    .picture{
+        height: 200px;
+        margin-bottom: 0;
+    }
+    .heading-containt{
+        padding: 60px 60px;
+    }
+    .sing{
+            background-color: crimson;
+            padding: 10px;
+            margin: 14px;
+            border-radius: 10px;
+    }
+ .background{
+    height: 50px;
+    width: 100px;
+    padding:200px 100px 200px 100px;
+ }
+ .flower{
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    width: auto;
+    height: 250px;
+    text-align: center;
+    padding-top: 80px;
+    
+ }
+ .batton{
+    padding:12px 30px;
+    gap:50px;
+    background-color: brown;
+    border-radius: 5px;
+    border: 0px;
+ }
+ .Enter{
+    padding: 10px 200px;
+    border: 0px;
+    gap: 10px;
+ }
+ .pictures{
+    text-align: center
+ }
+ 
+
+ 
+.pictures{
+
+   
+}
+.Instagram{
+    
+    /* padding: 130px 130px; */
+    
+    
+}
+.all-fotto{
+    display: flex;
+    gap:20px;
+}
+.flowor-shop{
+    text-align: center;
+    background-color: black;
+    margin: 25px;
+    padding:  50px;
+    color: aliceblue;
+}
+.shop{
+    color: white;
+}
+h1{
+    color:brown;
+}
+.delivery{
+    
+    display: flex;
+    background-color: antiquewhite;
+    padding: 100px 200px;
+    
+    margin-left: 50%;
+    
+    
+}
+
+
+
