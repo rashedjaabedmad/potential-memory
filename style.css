@@ -118,5 +118,22 @@ h1{
     
 }
 
+.rashed{
+    background-color:antiquewhite;
+    display: flex;
+    margin-top: 60px;
+    gap:25px;
+    padding-left: 125px;}
+
+    .rashed2{
+        border-radius: 50% 50% 0 0;
+    }
+    .tree{
+       text-align: center;
+       text-decoration:underline;
+       
+    }
+    
+
 
 
